@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Controle Portaria",
+    "imageSrc": "projects/project.png",
+    "description": "Controlar acesso de funcionário na empresa na portaria, substuindo planilhas",
+    "skills": ["PHP", "JavaScript", "MySQL", "Bootstrap"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/VitorGoncalves1/ControlePortaria"
+  },
+  {
+    "title": "Biblioteca Equipamento",
+    "imageSrc": "projects/project.png",
+    "description": "Biblioteca de equipamento de TI na empresa, quandor for emprestado. Por exemplo notebooks",
+    "skills": ["PHP", "JavaScript", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/VitorGoncalves1/BibliotecaEquipamento-"
+  }
+
+]

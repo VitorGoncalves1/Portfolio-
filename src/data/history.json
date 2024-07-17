@@ -1,0 +1,23 @@
+[
+  {
+    "role": "Assistente de TI",
+    "organisation": "Açoforja Industria de Forjados SA",
+    "startDate": "Outubro, 2022",
+    "endDate": "Atual",
+    "experiences": 
+      [
+        "Trabalhei com as tecnologias PHP, JavaScript e React no ambiente de trabalho",
+         "Realizei testes nos aplicativos desenvolvidos"
+      ],
+    "imageSrc": "history/acoforja.jpeg"
+  },
+  {
+    "role": "Estagiário de TI",
+    "organisation": "Açoforja Industria de Forjados SA",
+    "startDate": "Maio, 2022",
+    "endDate": "Agosto, 2022",
+    "experiences": ["Trabalhei atualizando sistemas desenvolvidos em PHP", "Suporte aos usuários com sistemas desenvolvidos"],
+    "imageSrc": "history/acoforja.jpeg"
+  }
+
+]
