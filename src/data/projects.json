@@ -1,7 +1,7 @@
 [
   {
     "title": "Controle Portaria",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/acessos.jpg",
     "description": "Controlar acesso de funcionário na empresa na portaria, substuindo planilhas",
     "skills": ["PHP", "JavaScript", "MySQL", "Bootstrap"],
     "demo": "https://www.example.com",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Biblioteca Equipamento",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/notebook.jpg",
     "description": "Biblioteca de equipamento de TI na empresa, quandor for emprestado. Por exemplo notebooks",
     "skills": ["PHP", "JavaScript", "MySQL"],
     "demo": "https://www.example.com",
